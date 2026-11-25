@@ -1,5 +1,7 @@
 # Project brief and Claude settings stay private
 CLAUDE.md
+DESIGN.md
+PLAN.md
 .claude/
 
 # Raw and cleaned data are never committed
